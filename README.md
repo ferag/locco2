@@ -25,6 +25,7 @@ This project
 
 
 ## Requirements
+You need to config also co2.service and locate it in the proper place (Example, in ubuntu, /etc/systemd/system/co2.service) and initiate it with journalctl.
 
 
 ## References

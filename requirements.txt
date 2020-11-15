@@ -1,0 +1,6 @@
+mh_z19
+mysql
+RPi
+datetime
+configparser
+sqlite3
