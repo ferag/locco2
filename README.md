@@ -38,12 +38,12 @@ systemctl enable co2.service
 ## Color code
 The concentration of CO2 should not be higher than ~ 750 ppm - 850 ppm (but it depends on the reference). To check if the concentration is OK, colors of the LED should be BLUE, CYAN or GREEN. YELLOW, MAGENTA and RED indicate poor air quality. This is the defined palette:
 
-co2 < 400: BLUE
-co2 >= 400 and co2 < 700: CYAN
-co2 >= 700 and co2 < 850: GREEN
-co2 >= 850 and co2 < 1500: YELLOW
-co2 >= 1500 and co2 < 1750: MAGENTA
-co2 >= 1750 and co2 < 5500: RED
+- co2 < 400: BLUE
+- co2 >= 400 and co2 < 700: CYAN
+- co2 >= 700 and co2 < 850: GREEN
+- co2 >= 850 and co2 < 1500: YELLOW
+- co2 >= 1500 and co2 < 1750: MAGENTA
+- co2 >= 1750 and co2 < 5500: RED
 
 ## References
 
