@@ -47,5 +47,5 @@ The concentration of CO2 should not be higher than ~ 750 ppm - 850 ppm (but it d
 
 ## References
 
-https://pypi.org/project/mh-z19/
-https://www.instructables.com/Using-a-RPi-to-Control-an-RGB-LED/
+- https://pypi.org/project/mh-z19/
+- https://www.instructables.com/Using-a-RPi-to-Control-an-RGB-LED/
