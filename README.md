@@ -1,5 +1,7 @@
 # LOw Cost CO2 data logger (LOCCO2)
 Low Cost CO2 data logger
+[![GitHub license](https://img.shields.io/github/license/indigo-dc/DEEPaaS.svg)](https://github.com/ferag/locco2/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/indigo-dc/DEEPaaS.svg)](https://github.com/ferag/locco2/releases)
 
 ## Description
 This project 
