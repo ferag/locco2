@@ -14,3 +14,9 @@ This project
 ## Circuit design
 <img src="https://i.ibb.co/71qdGsc/Sin-nombre.png" alt="Raspberry Pi 2 circuit" align="left">
 
+## Requirements
+
+
+## References
+https://pypi.org/project/mh-z19/
+https://www.instructables.com/Using-a-RPi-to-Control-an-RGB-LED/
