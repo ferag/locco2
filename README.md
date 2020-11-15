@@ -2,9 +2,9 @@
 Low Cost CO2 data logger
 
 ## Description
-This project 
+This project aims to deploy a LOW COST data logger to get CO2 concentration, which indicates the air quality and prevents from poor ventilation. This also may help to control the ventilation in order to prevent COVID-19 infections.
 
-## Components
+## Components & Prices
 - Raspberry Pi 2
 - MHZ-19 CO2 sensor (infrarred)
 - RGB 4-pin LED
