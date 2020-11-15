@@ -12,7 +12,17 @@ This project
 - USB WiFi card (optional)
 
 ## Circuit design
-<img src="https://i.ibb.co/71qdGsc/Sin-nombre.png" alt="Raspberry Pi 2 circuit" align="left">
+<img src="https://i.ibb.co/71qdGsc/Sin-nombre.png" alt="Raspberry Pi 2 circuit" align="left" style="margin-right: 25px" height=250>
+
+
+
+
+
+
+
+
+
+
 
 ## Requirements
 
